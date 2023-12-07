@@ -1,0 +1,16 @@
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\bin\Debug\net8.0-windows\KHANH.exe
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\bin\Debug\net8.0-windows\KHANH.deps.json
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\bin\Debug\net8.0-windows\KHANH.runtimeconfig.json
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\bin\Debug\net8.0-windows\KHANH.dll
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\bin\Debug\net8.0-windows\KHANH.pdb
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.Form1.resources
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.csproj.GenerateResource.cache
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.AssemblyInfoInputs.cache
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.AssemblyInfo.cs
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.csproj.CoreCompileInputs.cache
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.dll
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\refint\KHANH.dll
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.pdb
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\KHANH.genruntimeconfig.cache
+C:\Users\khanh\source\repos\khanh\KHANH\KHANH\obj\Debug\net8.0-windows\ref\KHANH.dll
