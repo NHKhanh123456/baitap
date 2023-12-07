@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KHANH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e56a59846184e2cdb82cfe68869fa71a071688")]
 [assembly: System.Reflection.AssemblyProductAttribute("KHANH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KHANH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
